@@ -21,7 +21,7 @@ A streamlit-based chatbot powered by Google's Gemma 2B model. This chatbot can a
 
 1. Clone the repository:
 ```bash
-git clone [<repository-url>](https://github.com/ayseljafar/gemma_QA_bot)
+git clone https://github.com/ayseljafar/gemma_QA_bot.git
 cd chatbot
 ```
 
